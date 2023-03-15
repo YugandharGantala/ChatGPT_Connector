@@ -28,7 +28,7 @@ import os
 import openai
 # Create your views here.
 import os
-OPENAI_API_KEY= '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'
+OPENAI_API_KEY= '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'
 
 
 def index(request):
